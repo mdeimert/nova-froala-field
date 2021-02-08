@@ -2,8 +2,8 @@
 
 namespace Froala\NovaFroalaField\Tests\Fixtures;
 
-use Froala\NovaFroalaField\Froala;
-use Froala\NovaFroalaField\Tests\TestCase;
+use Mdeimert\NovaFroalaField\Froala;
+use Mdeimert\NovaFroalaField\Tests\TestCase;
 use Illuminate\Http\Request;
 use Laravel\Nova\Fields\Text;
 use Laravel\Nova\Resource;

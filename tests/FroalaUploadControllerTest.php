@@ -2,10 +2,10 @@
 
 namespace Froala\NovaFroalaField\Tests;
 
-use Froala\NovaFroalaField\Models\Attachment;
-use Froala\NovaFroalaField\Models\PendingAttachment;
+use Mdeimert\NovaFroalaField\Models\Attachment;
+use Mdeimert\NovaFroalaField\Models\PendingAttachment;
 use function Froala\NovaFroalaField\nova_version_at_least;
-use Froala\NovaFroalaField\Tests\Fixtures\Article;
+use Mdeimert\NovaFroalaField\Tests\Fixtures\Article;
 use Illuminate\Support\Facades\Storage;
 
 class FroalaUploadControllerTest extends TestCase

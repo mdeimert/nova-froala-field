@@ -2,7 +2,7 @@
 
 namespace Froala\NovaFroalaField\Http\Controllers;
 
-use Froala\NovaFroalaField\Froala;
+use Mdeimert\NovaFroalaField\Froala;
 use Laravel\Nova\Http\Requests\NovaRequest;
 
 class FroalaImageManagerController

@@ -2,8 +2,8 @@
 
 namespace Froala\NovaFroalaField\Handlers;
 
-use Froala\NovaFroalaField\Froala;
-use Froala\NovaFroalaField\Models\PendingAttachment;
+use Mdeimert\NovaFroalaField\Froala;
+use Mdeimert\NovaFroalaField\Models\PendingAttachment;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Storage;

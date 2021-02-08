@@ -2,7 +2,7 @@
 
 namespace Froala\NovaFroalaField\Jobs;
 
-use Froala\NovaFroalaField\Models\PendingAttachment;
+use Mdeimert\NovaFroalaField\Models\PendingAttachment;
 
 class PruneStaleAttachments
 {

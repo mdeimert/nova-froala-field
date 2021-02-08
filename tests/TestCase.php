@@ -2,9 +2,9 @@
 
 namespace Froala\NovaFroalaField\Tests;
 
-use Froala\NovaFroalaField\FroalaFieldServiceProvider;
-use Froala\NovaFroalaField\Tests\Fixtures\TestResource;
-use Froala\NovaFroalaField\Tests\Fixtures\User;
+use Mdeimert\NovaFroalaField\FroalaFieldServiceProvider;
+use Mdeimert\NovaFroalaField\Tests\Fixtures\TestResource;
+use Mdeimert\NovaFroalaField\Tests\Fixtures\User;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Route;
 use Laravel\Nova\Nova;

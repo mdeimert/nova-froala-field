@@ -2,7 +2,7 @@
 
 namespace Froala\NovaFroalaField\Handlers;
 
-use Froala\NovaFroalaField\Models\PendingAttachment;
+use Mdeimert\NovaFroalaField\Models\PendingAttachment;
 use Illuminate\Http\Request;
 
 class DiscardPendingAttachments

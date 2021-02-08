@@ -38,7 +38,7 @@ Just use the `Froala\NovaFroalaField\Froala` field in your Nova resource:
 ```php
 namespace App\Nova;
 
-use Froala\NovaFroalaField\Froala;
+use Mdeimert\NovaFroalaField\Froala;
 
 class Article extends Resource
 {
@@ -180,7 +180,7 @@ you can use `trix` driver in config file:
 To allow users to upload images, files and videos, just like with _Trix_ field, chain the `withFiles` method onto the field's definition. When calling the `withFiles` method, you should pass the name of the filesystem disk that photos should be stored on:
 
 ```php
-use Froala\NovaFroalaField\Froala;
+use Mdeimert\NovaFroalaField\Froala;
 
 Froala::make('Content')->withFiles('public');
 ```
@@ -188,7 +188,7 @@ Froala::make('Content')->withFiles('public');
 And also, in your `app/Console/Kernel.php` file, you should register a [daily job](https://laravel.com/docs/5.7/scheduling) to prune any stale attachments from the pending attachments table and storage:
 
 ```php
-use Froala\NovaFroalaField\Jobs\PruneStaleAttachments;
+use Mdeimert\NovaFroalaField\Jobs\PruneStaleAttachments;
 
 
 /**

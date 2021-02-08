@@ -2,7 +2,7 @@
 
 namespace Froala\NovaFroalaField\Models;
 
-use Froala\NovaFroalaField\Froala;
+use Mdeimert\NovaFroalaField\Froala;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Storage;
 

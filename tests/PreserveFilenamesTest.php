@@ -2,7 +2,7 @@
 
 namespace Froala\NovaFroalaField\Tests;
 
-use Froala\NovaFroalaField\Models\PendingAttachment;
+use Mdeimert\NovaFroalaField\Models\PendingAttachment;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Storage;
 
