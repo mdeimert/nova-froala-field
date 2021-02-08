@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Jobs;
+namespace Mdeimert\NovaFroalaField\Jobs;
 
 use Mdeimert\NovaFroalaField\Models\PendingAttachment;
 

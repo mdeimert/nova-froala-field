@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField;
+namespace Mdeimert\NovaFroalaField;
 
 use Mdeimert\NovaFroalaField\Handlers\AttachedImagesList;
 use Mdeimert\NovaFroalaField\Handlers\DeleteAttachments;

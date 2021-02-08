@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField;
+namespace Mdeimert\NovaFroalaField;
 
 use Mdeimert\NovaFroalaField\Http\Controllers\FroalaToTrixAttachmentAdapterController;
 use Illuminate\Support\Facades\Route;

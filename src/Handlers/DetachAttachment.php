@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Handlers;
+namespace Mdeimert\NovaFroalaField\Handlers;
 
 use Mdeimert\NovaFroalaField\Models\Attachment;
 use Illuminate\Http\Request;

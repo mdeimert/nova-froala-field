@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Tests;
+namespace Mdeimert\NovaFroalaField\Tests;
 
 use Mdeimert\NovaFroalaField\Models\PendingAttachment;
 use Illuminate\Http\Response;

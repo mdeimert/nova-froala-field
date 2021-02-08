@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField;
+namespace Mdeimert\NovaFroalaField;
 
 interface FroalaPlugins
 {

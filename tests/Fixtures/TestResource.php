@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Tests\Fixtures;
+namespace Mdeimert\NovaFroalaField\Tests\Fixtures;
 
 use Mdeimert\NovaFroalaField\Froala;
 use Mdeimert\NovaFroalaField\Tests\TestCase;

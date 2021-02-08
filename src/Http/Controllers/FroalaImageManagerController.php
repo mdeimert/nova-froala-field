@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Http\Controllers;
+namespace Mdeimert\NovaFroalaField\Http\Controllers;
 
 use Mdeimert\NovaFroalaField\Froala;
 use Laravel\Nova\Http\Requests\NovaRequest;

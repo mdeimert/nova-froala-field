@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Models;
+namespace Mdeimert\NovaFroalaField\Models;
 
 use Mdeimert\NovaFroalaField\Froala;
 use Illuminate\Database\Eloquent\Model;

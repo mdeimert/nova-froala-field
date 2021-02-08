@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Tests;
+namespace Mdeimert\NovaFroalaField\Tests;
 
 use Mdeimert\NovaFroalaField\FroalaFieldServiceProvider;
 use Mdeimert\NovaFroalaField\Tests\Fixtures\TestResource;

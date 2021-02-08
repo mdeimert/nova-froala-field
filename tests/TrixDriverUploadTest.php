@@ -1,6 +1,6 @@
 <?php
 
-namespace Froala\NovaFroalaField\Tests;
+namespace Mdeimert\NovaFroalaField\Tests;
 
 use function Froala\NovaFroalaField\nova_version_at_least;
 use Mdeimert\NovaFroalaField\Tests\Fixtures\Article;
