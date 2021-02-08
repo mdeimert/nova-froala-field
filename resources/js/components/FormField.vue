@@ -36,7 +36,7 @@ export default {
         new PluginsLoader(this.options, this.$toasted).registerPlugins().then(data => {
             this.loading = false;
         });
-        console.log(this.field.options)
+        console.log(this.options)
     },
 
     data() {
@@ -48,7 +48,7 @@ export default {
 
     computed: {
         options() {
-            return _.merge(this.field.options, this.defaultConfig(), window.froala || {});
+            return _.merge(this.field.options, this.defaultConfig(), window.froala || {language: 'pl'});
         },
     },
 
