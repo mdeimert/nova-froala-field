@@ -37,7 +37,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Froala\\NovaFroalaField\\": "src/"
+            "Mdeimert\\NovaFroalaField\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -45,7 +45,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Froala\\NovaFroalaField\\Tests\\": "tests"
+            "Mdeimert\\NovaFroalaField\\Tests\\": "tests"
         }
     },
     "scripts": {
