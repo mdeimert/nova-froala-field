@@ -36,6 +36,7 @@ export default {
         new PluginsLoader(this.options, this.$toasted).registerPlugins().then(data => {
             this.loading = false;
         });
+        console.log(this.field.options)
     },
 
     data() {
